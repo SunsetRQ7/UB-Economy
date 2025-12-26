@@ -1,0 +1,17 @@
+# Plugin metadata
+name: UB-Economy
+author: SunsetRQ7
+version: 1.0.0
+description: Custom economy plugin
+commands:
+  balance:
+    description: Show your balance
+  auction:
+    description: Manage your auctions
+permissions:
+  ubeconomy.command.balance:
+    description: Access to /bal
+    default: true
+  ubeconomy.command.auction:
+    description: Access to auction commands
+    default: op

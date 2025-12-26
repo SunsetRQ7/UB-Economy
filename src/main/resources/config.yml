@@ -1,0 +1,4 @@
+# General config
+currency-symbol: "$"
+starting-balance: 100.0
+default-auction-duration: 3600 # in seconds

@@ -1,0 +1,7 @@
+# Plugin messages
+errors:
+  invalid-command: "Invalid command."
+success:
+  balance-shown: "Your balance: {balance}"
+notifications:
+  auction-ended: "Your auction has ended."
