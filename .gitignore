@@ -1,0 +1,40 @@
+```
+# Java/Maven build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependencies
+lib/
+libs/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Compiled Python (if any Python files exist)
+*.pyc
+__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+```
